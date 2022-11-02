@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="square_root_symbol">\^/\u221a</string>
+    <string name="div_symbol">\u00f7</string>
+    <string name="adjust_symbol">\🖌</string>
+    <string name="square">\u221a</string>
+    <string name="power">x\u02b8</string>
+    <string name="cos">cos</string>
+    <string name="sin">sin</string>
+    <string name="tan">tan</string>
+    <string name="minus">\u2212</string>
+    <string name="equal">\u003d</string>
+    <string name="mult">\u2217</string>
+    <string name="plus">\u002b</string>
+    <string name="parent">\u207d\u207e</string>
+    <string name="reanswer">\u21bb</string>
+    <string name="not">\u00ac</string>
+    <string name="off">\u23FB</string>
+
+
+</resources>

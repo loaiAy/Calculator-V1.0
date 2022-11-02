@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/black" >
+
+
+    <item android:title="@string/square"
+        android:id="@+id/sqrt"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <item android:title="@string/power"
+        android:id="@+id/power"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <item android:title="@string/cos"
+        android:id="@+id/cos"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <item android:title="@string/sin"
+        android:id="@+id/sin"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <item android:title="@string/tan"
+        android:id="@+id/tan"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+</menu>
